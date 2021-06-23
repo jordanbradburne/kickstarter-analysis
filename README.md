@@ -31,6 +31,7 @@
 
 #To make the data easier to understand, I next converted the Unix Timestamps to readable format and then created a new Pivot Chart.
 #With this I was able to find out that the month that launched the most successful Kickstarter campaigns was May, but January, June, July and #October all had about the same number of failed campaigns launched.
+
 <img width="185" alt="DATES" src="https://user-images.githubusercontent.com/85847344/123174087-6dc5ce80-d434-11eb-9223-9381d1afa430.png">
 
 #To continue to help Louise plan her campaign, I used filters so that I could update my charts to view data for only theater and plays.
