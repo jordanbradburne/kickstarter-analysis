@@ -29,6 +29,14 @@
 
 #To make the data easier to understand, I next converted the Unix Timestamps to readable format and then created a new Pivot Chart.
 #With this I was able to find out that the month that launched the most successful Kickstarter campaigns was May, but January, June, July and #October all had about the same number of failed campaigns launched.
+![DATES](path/to/DATES.png)
+
+#To continue to help Louise plan her campaign, I used filters so that I could update my charts to view data for only theater and plays.
+#Also searched for a unique campaign and by doing so, I was be able to pinpoint the ones most similar to Louise's vision. This helped me #research projects similar in scope and type. Their specific data will help Louise's project be successful.
+
+#I used VLOOKUP so Louise could learn about the five plays that she was inspired by at the Edinburgh Festival Fringe and so I could see how #they were funded.
+![VLOOKUP](pth/to/VLOOKUP.png)
+
 
 
 
