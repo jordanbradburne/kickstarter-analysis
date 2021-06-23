@@ -1,3 +1,4 @@
+
 # An Analysis of Kickstarter Campaigns
 #Performing analysis on Kickstarter data to uncover trends
 
@@ -14,7 +15,8 @@
 
 #Next I added a Percentage Funded column in order to refine refine the visual presentation of the data in the worksheet to provide Louise with #information at a glance along with using value shading to customize the worksheet for the same reasons.
 #For example:
-![EX1](path/to/EX1.png)
+<img width="866" alt="EX1" src="https://user-images.githubusercontent.com/85847344/123174140-846c2580-d434-11eb-9545-4bd9aaa32169.png">
+
 #As you can see in the photo, the green colors the "successful" outcomes, which means they reached their pledge goal or exceeded it. 
 #Red means failed, yellow is cancelled and blue is live.
 
@@ -29,13 +31,14 @@
 
 #To make the data easier to understand, I next converted the Unix Timestamps to readable format and then created a new Pivot Chart.
 #With this I was able to find out that the month that launched the most successful Kickstarter campaigns was May, but January, June, July and #October all had about the same number of failed campaigns launched.
-![DATES](path/to/DATES.png)
+<img width="185" alt="DATES" src="https://user-images.githubusercontent.com/85847344/123174087-6dc5ce80-d434-11eb-9223-9381d1afa430.png">
 
 #To continue to help Louise plan her campaign, I used filters so that I could update my charts to view data for only theater and plays.
 #Also searched for a unique campaign and by doing so, I was be able to pinpoint the ones most similar to Louise's vision. This helped me #research projects similar in scope and type. Their specific data will help Louise's project be successful.
 
 #I used VLOOKUP so Louise could learn about the five plays that she was inspired by at the Edinburgh Festival Fringe and so I could see how #they were funded.
-![VLOOKUP](pth/to/VLOOKUP.png)
+<img width="859" alt="VLOOKUP" src="https://user-images.githubusercontent.com/85847344/123174116-79b19080-d434-11eb-8166-525b9b3777a4.png">
+
 
 
 
