@@ -38,9 +38,12 @@
 #Also searched for a unique campaign and by doing so, I was be able to pinpoint the ones most similar to Louise's vision. This helped me #research projects similar in scope and type. Their specific data will help Louise's project be successful.
 
 #I used VLOOKUP so Louise could learn about the five plays that she was inspired by at the Edinburgh Festival Fringe and so I could see how #they were funded.
+
 <img width="859" alt="VLOOKUP" src="https://user-images.githubusercontent.com/85847344/123174116-79b19080-d434-11eb-8166-525b9b3777a4.png">
 
 
+#I also made sure to add statistical components in order to provide an unbiased view od the data to make further conclusions based on
+#actual calculations. I started start with finding the measures of central tendency: mean, median, and mode.
 
 
 
